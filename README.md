@@ -1,5 +1,5 @@
 # TDA
-<img src="https://github.com/ErikFantomex/TDA/blob/main/Cartel_Congreso_Matematicas_2019.pdf" alt="banner"/>
+<img src="https://github.com/ErikFantomex/TDA/blob/main/Cartel_Congreso_Matematicas_2019.pdf" alt="Cartel"/>
 
 
 Se presenta una propuesta de visualización para el
