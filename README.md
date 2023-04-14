@@ -1,4 +1,5 @@
-# TDA
+# Herramientas de análisis topológico de datos
+en el estudio de sistemas dinámicos discretos 
 
 <img src="https://github.com/ErikFantomex/TDA/blob/main/Cartel_Congreso_Matematicas_2019.pdf" alt="Cartel"/>
 
