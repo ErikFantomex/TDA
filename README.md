@@ -1,6 +1,6 @@
 # TDA
-<img src="https://github.com/ErikFantomex/TDA/blob/main/Cartel_Congreso_Matematicas_2019.pdf" alt="Cartel"/>
 
+<img src="https://github.com/ErikFantomex/TDA/blob/main/Cartel_Congreso_Matematicas_2019.pdf" alt="Cartel"/>
 
 Se presenta una propuesta de visualización para el
 análisis de la dinámica de un sistema dinámico
@@ -13,6 +13,9 @@ movimiento colectivo de grupos de organismos. Se
 presenta también una comparación con otras
 variables de orden usualmente utilizadas, así como
 con la función de entropía persistente
+
+<img src="https://github.com/ErikFantomex/TDA/blob/main/cartel.png" alt="Cartel"/>
+
 
 # Prediccion series de tiempo analisis topologico
 
