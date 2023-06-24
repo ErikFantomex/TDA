@@ -1,7 +1,7 @@
 # Herramientas de análisis topológico de datos
-en el estudio de sistemas dinámicos discretos 
+en el estudio de sistemas dinámicos discretos
 
-<img src="https://github.com/ErikFantomex/TDA/blob/main/Cartel_Congreso_Matematicas_2019.pdf" alt="Cartel"/>
+<img src="https://github.com/ErikFantomex/TDA/blob/main/assets/Cartel_Congreso_Matematicas_2019.pdf" alt="Cartel"/>
 
 Se presenta una propuesta de visualización para el
 análisis de la dinámica de un sistema dinámico
@@ -15,7 +15,7 @@ presenta también una comparación con otras
 variables de orden usualmente utilizadas, así como
 con la función de entropía persistente
 
-<img src="https://github.com/ErikFantomex/TDA/blob/main/cartel.png" alt="Cartel"/>
+<img src="https://github.com/ErikFantomex/TDA/blob/main/assets/cartel.png" alt="Cartel"/>
 
 
 # Prediccion series de tiempo analisis topologico
@@ -29,10 +29,10 @@ Es importante tener en cuenta que la predicción con el modelo ARIMA es una téc
 
 En resumen, el método ARIMA es una herramienta útil para la predicción de series de tiempo, pero debe utilizarse con precaución y siempre en conjunto con otras técnicas y herramientas de análisis de datos para obtener una imagen completa de la situación.
 
-<img src="https://github.com/ErikFantomex/TDA/blob/main/1.png" alt="banner"/>
+<img src="https://github.com/ErikFantomex/TDA/blob/main/assets/1.png" alt="banner"/>
 
-<img src="https://github.com/ErikFantomex/TDA/blob/main/2.png" alt="banner"/>
+<img src="https://github.com/ErikFantomex/TDA/blob/main/assets/2.png" alt="banner"/>
 
-<img src="https://github.com/ErikFantomex/TDA/blob/main/3.png" alt="banner"/>
+<img src="https://github.com/ErikFantomex/TDA/blob/main/assets/3.png" alt="banner"/>
 
-<img src="https://github.com/ErikFantomex/TDA/blob/main/4.png" alt="banner"/>
+<img src="https://github.com/ErikFantomex/TDA/blob/main/assets/4.png" alt="banner"/>
